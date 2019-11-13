@@ -1,0 +1,37 @@
+2018-08-03 08:52:22,186 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider 
+2018-08-03 08:52:22,772 [main] INFO  graph-ql-clojure.env - 
+-=[graph-ql-clojure started successfully using the development profile]=- 
+2018-08-03 08:52:22,892 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2018-08-03 08:52:22,961 [main] DEBUG io.undertow - starting undertow server io.undertow.Undertow@67aa004d 
+2018-08-03 08:52:22,974 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2018-08-03 08:52:23,205 [main] DEBUG io.undertow - Configuring listener with protocol HTTP for interface 0.0.0.0 and port 3000 
+2018-08-03 08:52:23,273 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2018-08-03 08:52:23,276 [main] INFO  graph-ql-clojure.nrepl - starting nREPL server on port 7000 
+2018-08-03 08:52:23,298 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.config/env started 
+2018-08-03 08:52:23,298 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.handler/init-app started 
+2018-08-03 08:52:23,299 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.handler/app started 
+2018-08-03 08:52:23,299 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.core/http-server started 
+2018-08-03 08:52:23,299 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.core/repl-server started 
+2018-08-03 08:55:45,403 [Thread-1] INFO  graph-ql-clojure.nrepl - nREPL server stopped 
+2018-08-03 08:55:45,406 [Thread-1] DEBUG org.projectodd.wunderboss.WunderBoss - Returning existing component for org.projectodd.wunderboss.web.Web:-1943927936, ignoring options. 
+2018-08-03 08:55:45,407 [Thread-1] DEBUG io.undertow - stopping undertow server io.undertow.Undertow@67aa004d 
+2018-08-03 08:55:45,409 [Thread-1] INFO  luminus.http-server - HTTP server stopped 
+2018-08-03 08:55:45,409 [Thread-1] INFO  graph-ql-clojure.env - 
+-=[graph-ql-clojure has shut down successfully]=- 
+2018-08-03 08:55:45,410 [Thread-1] INFO  graph-ql-clojure.core - #'graph-ql-clojure.core/repl-server stopped 
+2018-08-03 08:55:45,410 [Thread-1] INFO  graph-ql-clojure.core - #'graph-ql-clojure.core/http-server stopped 
+2018-08-03 08:55:45,411 [Thread-1] INFO  graph-ql-clojure.core - #'graph-ql-clojure.handler/init-app stopped 
+2018-08-03 08:57:23,520 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider 
+2018-08-03 08:57:24,053 [main] INFO  graph-ql-clojure.env - 
+-=[graph-ql-clojure started successfully using the development profile]=- 
+2018-08-03 08:57:24,183 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2018-08-03 08:57:24,225 [main] DEBUG io.undertow - starting undertow server io.undertow.Undertow@7a16602e 
+2018-08-03 08:57:24,235 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2018-08-03 08:57:24,389 [main] DEBUG io.undertow - Configuring listener with protocol HTTP for interface 0.0.0.0 and port 3000 
+2018-08-03 08:57:24,445 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2018-08-03 08:57:24,446 [main] INFO  graph-ql-clojure.nrepl - starting nREPL server on port 7000 
+2018-08-03 08:57:24,467 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.config/env started 
+2018-08-03 08:57:24,468 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.handler/init-app started 
+2018-08-03 08:57:24,468 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.handler/app started 
+2018-08-03 08:57:24,469 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.core/http-server started 
+2018-08-03 08:57:24,469 [main] INFO  graph-ql-clojure.core - #'graph-ql-clojure.core/repl-server started 

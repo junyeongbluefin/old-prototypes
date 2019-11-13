@@ -1,0 +1,1 @@
+web: java -cp target/uberjar/graph-ql-clojure.jar clojure.main -m graph-ql-clojure.core
